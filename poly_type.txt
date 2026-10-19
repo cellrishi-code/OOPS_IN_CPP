@@ -1,0 +1,5 @@
+1. static polymorphism    aka compile time overloading
+    a. operator overloading 
+    b. function ovrloading
+2 . dyanmic polymorphsim 
+
